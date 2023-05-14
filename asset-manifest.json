@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AdityaDanturthi/reasons-to-learn-react/static/css/main.7b68553d.css",
+    "main.js": "/AdityaDanturthi/reasons-to-learn-react/static/js/main.cb162fa8.js",
+    "static/js/787.fd3b90dd.chunk.js": "/AdityaDanturthi/reasons-to-learn-react/static/js/787.fd3b90dd.chunk.js",
+    "static/media/logo.svg": "/AdityaDanturthi/reasons-to-learn-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AdityaDanturthi/reasons-to-learn-react/index.html",
+    "main.7b68553d.css.map": "/AdityaDanturthi/reasons-to-learn-react/static/css/main.7b68553d.css.map",
+    "main.cb162fa8.js.map": "/AdityaDanturthi/reasons-to-learn-react/static/js/main.cb162fa8.js.map",
+    "787.fd3b90dd.chunk.js.map": "/AdityaDanturthi/reasons-to-learn-react/static/js/787.fd3b90dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b68553d.css",
+    "static/js/main.cb162fa8.js"
+  ]
+}
